@@ -1,125 +1,112 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Clica para ir ao problema</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Clica aqui para focar a câmara no problema</ClickToJumpToProblem>
 
+  <BreakRiskMinor>Risco de esgotamento nervoso leve</BreakRiskMinor>
+  <BreakRiskMajor>Risco de esgotamento nervoso moderado</BreakRiskMajor>
+  <BreakRiskExtreme>Risco de esgotamento nervoso grave</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Este ou estes colonos estão de mau humor e poderão sofrer de um esgotamento nervoso leve a qualquer momento:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Este ou estes colonos estão de muito mau humor e poderão sofrer de um esgotamento nervoso moderado a qualquer momento:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Este ou estes colonos estão com níveis de stress muito elevados e poderão sofrer de um esgotamento nervoso grave (e possivelmente violento) a qualquer momento:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Verifica a aba das Necessidades destes colonos para averiguar o que os está a incomodar.\n\nPara ajudar a melhorar o humor dos colonos, poderás providenciar-lhes refeições extravagantes, mais horas por dia para se divertirem e objectos de diversão melhores, colocá-los em ambientes mais bonitos, fornecer-lhes bebidas alcoólicas e tabaco, e muito mais.</BreakRiskDescEnding>
   
+  <ColonistNeedsRescue>Colono necessita de ser socorrido</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Colonos necessitam de ser socorridos</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Este ou estes colonos estão incapacitados no chão:\n\n{0}\nEnvia outro colono para socorrê-los e levá-los de volta para a cama.\n\n(Para socorrer um colono, primeiro seleciona outro colono, clica com o botão direito do rato sobre a vítima e seleciona Socorrer).</ColonistsNeedRescueDesc>
+
+  <NeedDefenses>Sistemas de defesa em falta</NeedDefenses>
+  <NeedDefensesDesc>Já estás aqui há algum tempo e a tua presença já deverá ter sido notada. Piratas na região irão começar a atacar-te em breve.\n\nDeves preparar sistemas de defesa, sejam eles armadilhas, sacos de areia, ou torres de tiro.</NeedDefensesDesc>
+
+  <NeedDoctor>Médico em falta</NeedDoctor>
+  <NeedDoctorDesc>Estes colonos precisam de tratamento médico, mas não tens nenhum colono saudável designado como médico.\n\n{0}\nAtribui um colono saudável à posição de Médico. Se as lesões não forem tratadas, estas poderão nunca sarar completamente e tornarem-se permanentes.</NeedDoctorDesc>
+
+  <NeedMiner>Mineiro em falta</NeedMiner>
+  <NeedMinerDesc>Designaste algumas rochas para lhes extrair o minério, mas nenhum colono está atribuído à posição de Mineiro.\n\nAtribui um colono à posição de Mineiro.</NeedMinerDesc>
+
+  <NeedWarden>Guarda em falta</NeedWarden>
+  <NeedWardenDesc>Tens um prisioneiro, mas nenhum colono está atribuído à posição de Guarda.\n\nAtribui um colono à posição de Guarda.</NeedWardenDesc>
+
+  <LowFood>Reservas de comida baixas</LowFood>
+  <LowFoodDesc>As tuas reservas de comida estão perigosamente baixas.\n\n    Número de barras completas em comida armazenada: {0}\n    Colonos e prisioneiros com acesso a comida: {1}\n    Dias até o abastecimento de comida acabar: {2}\n\nCultiva, compra, encontra, ou mata qualquer coisa para obteres alimento.</LowFoodDesc>
+
+  <LowMedicine>Reservas de medicamentos baixas</LowMedicine>
+  <LowMedicineDesc>Tens apenas mais {0} medicamento(s) armazenado(s).\n\nCompra mais medicamentos de comerciantes.</LowMedicineDesc>
+  <NoMedicineDesc>Não tens mais medicamentos armazenados.\n\nCompra mais medicamentos de comerciantes.</NoMedicineDesc>
   
-  <NeedSawmill>Requer serra</NeedSawmill>
-  <NeedSawmillDesc>Precisas de algum tipo de serra para cortar a madeira em tábuas.\n\nConstrói uma SERRA DE MÃO ou uma MOTOSERRA.</NeedSawmillDesc>
+  <NeedColonistBeds>Camas para colonos em falta</NeedColonistBeds>
+  <NeedColonistBedsDesc>Tens mais colonos do que camas. Alguém vai ficar sem uma cama para dormir.\n\nPensa em fazer mais camas, ou alterar camas de prisioneiros para camas de colonos.\n\nSe não tiveres recursos, pontos de descanso são grátis e podem ser colocados instantaneamente.</NeedColonistBedsDesc>
 
-  <PoorMood>Humor em baixo</PoorMood>
-  <PoorMoodDesc>Estes colonos estão de mau humor e podem ter uma leve quebra mental a qualquer momento:\n\n{0}</PoorMoodDesc>
-  <TerribleMood>Terrível mau humor</TerribleMood>
-  <TerribleMoodDesc>Estes colonos estão criticamente stressados e podem ter uma grave - e possivelmente violenta - quebra mental a qualquer momento:\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>Verifica a aba de Necessidades destes colonos para saberes o que os está a incomodar.</LowMoodDescEnding>
-  
-  <ColonistNeedsRescue>Colono precisa de ser socorrido</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Colonos precisam de ser socorridos</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Estes colonos estão incapacitados no chão:\n\n{0}\nEnvia outro colono para socorrê-los e levá-los de volta para a cama.\n\n(Para socorrer, seleciona outro colono, em seguida, clica com botão direito sobre a vítima e seleciona Socorrer).</ColonistsNeedRescueDesc>
+  <HunterLacksWeapon>Caçador sem arma de combate à distância</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Um ou mais colonos estão designados como caçadores mas não têm uma arma de combate à distância.\n\nNão irão caçar até que estejam em posse duma arma de combate à distância.</HunterLacksWeaponDesc>
 
-  <BuildARoom>Construir uma divisão</BuildARoom>
-  <BuildARoomDesc>Uma divisão é composta por paredes e uma porta.\n\nUsa o menu ARQUITETO na parte inferior esquerda do ecrã para designar onde queres que as coisas sejam construídas. Assim que designas algo a ser construído, os teus colonos irão fazê-lo quando puderem.</BuildARoomDesc>
+  <AlertTatteredApparel>Vestuário esfarrapado</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Este ou estes colonos estão a usar roupa esfarrapada, o que os está a deixar tristes:\n\n{0}\nArranja-lhes algum vestuário que não esteja tão danificado.\n\nPodes coser roupa numa mesa de costura, ou comprá-la de comerciantes.</AlertTatteredApparelDesc>
 
-  <NeedDefenses>Requer defesas</NeedDefenses>
-  <NeedDefensesDesc>Já estás aqui há algum tempo e provavelmente já foste visto. Ataques de piratas começarão em breve.\n\nDeves preparar defesas.\n\nConstrói umas torres de tiro.</NeedDefensesDesc>
+	<AlertUnhappyNudity>Colonos nus infelizes</AlertUnhappyNudity>
+	<AlertUnhappyNudityDesc>Este ou estes colonos estão nus e não estão nada contentes com a situação:\n\n{0}\nArranja-lhes algumas roupas.\n\nPodes coser roupa numa mesa de costura, ou comprá-la de comerciantes.</AlertUnhappyNudityDesc>
 
-  <NeedDoctor>Requer um médico</NeedDoctor>
-  <NeedDoctorDesc>Estes colonos precisam de tratamento médico, mas não tens nenhum colono saudável designado como médico.\n\n{0}\nAtribui um colono saudável para ser o Médico. Se as lesões não forem tratadas, podem nunca recuperar totalmente e tornarem-se permanentes.</NeedDoctorDesc>
+	<Starvation>Fome</Starvation>
+  <StarvationDesc>Este ou estes colonos estão famintos:\n\n{0}\nAlimenta-os.</StarvationDesc>
 
-  <NeedMiner>Requer um mineiro</NeedMiner>
-  <NeedMinerDesc>Designaste algumas rochas para serem extraídas, mas nenhum colono tem o trabalho atribuído de Mineiro.\n\nAtribui um colono para o trabalho de Mineiro.</NeedMinerDesc>
-
-  <NeedWarden>Requer um guarda</NeedWarden>
-  <NeedWardenDesc>Tens um prisioneiro, mas nenhum colono a trabalhar como Guarda.\n\nAtribui um colono para trabalhar como Guarda.</NeedWardenDesc>
-
-  <LowFood>Comida escassa</LowFood>
-  <LowFoodDesc>Tens apenas {0} de alimentos em stock. Isto é perigosamente baixo.\n\nCultiva, compra, encontra ou mata animais para obter alimento.</LowFoodDesc>
-
-  <LowMedicine>Medicina escassa</LowMedicine>
-  <LowMedicineDesc>Tens apenas {0} medicamentos em stock.\n\nCompra mais medicação dos comerciantes.</LowMedicineDesc>
-  <NoMedicineDesc>Não tens mais medicamentos em stock.\n\nCompra mais medicação dos comerciantes.</NoMedicineDesc>
-  
-  <NeedColonistBeds>Requer camas de colonos</NeedColonistBeds>
-  <NeedColonistBedsDesc>Tens mais colonos do que camas. Alguém vai ficar sem cama para dormir.\n\nPensa em fazer mais camas, ou alterar as camas de prisioneiros para camas de colonos.\n\nSe não tiveres recursos, pontos de descanso são grátis e podem ser postos instantaneamente.</NeedColonistBedsDesc>
-
-  <HunterLacksWeapon>Caçador não tem arma</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>Um colono está designado como caçador mas não tem arma. Não irá caçar até que esteja em posse de uma arma.\n\nPara evitar lesões, recomenda-se que lhe dês uma arma.</HunterLacksWeaponDesc>
-
-  <Starvation>Fome</Starvation>
-  <StarvationDesc>Estes colonos estão famintos:\n\n{0}\nAlimenta-os.</StarvationDesc>
-
-  <StarvationAnimals>Animal doméstico com fome</StarvationAnimals>
-  <StarvationAnimalsDesc>Estes animais domésticos estão famintos:\n\n{0}\nAlimenta-os.</StarvationAnimalsDesc>
+  <StarvationAnimals>Animais famintos</StarvationAnimals>
+  <StarvationAnimalsDesc>Este ou estes animais da colónia estão famintos:\n\n{0}\nAlimenta-os.</StarvationAnimalsDesc>
 
   <Exhaustion>Exaustão</Exhaustion>
-  <ExhaustionDesc>Estes colonos estão exaustos e precisam de descanso:\n\n{0}\nDá lhes um descanso. Eles vão precisar de camas para uso dos colonos. Além disso, certifica-te que eles não estão alistados.</ExhaustionDesc>
+  <ExhaustionDesc>Estes colonos estão exaustos e precisam de descanso:\n\n{0}\nDeixa-os descansar. Eles vão precisar de camas atribuídas para uso por parte de colonos. Além disso, certifica-te que eles não estão alistados.</ExhaustionDesc>
 
-  <NeedFoodHopper>Requer colhedor de comida</NeedFoodHopper>
-  <NeedFoodHopperDesc>Tens um dispensador de pasta nutritiva sem um colhedor ao lado dele.\n\nPara funcionar, dispensadores de pasta nutritiva devem possuir um colhedor adjancente a ele, preenchido com alimentos crus.\n\nConstrói um colhedor de comida adjacente ao dispensador.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Depósito de comida em falta</NeedFoodHopper>
+  <NeedFoodHopperDesc>Tens um dispensador de pasta nutritiva sem um depósito ao lado deste.\n\nPara funcionarem, dispensadores de pasta nutritiva devem possuir um depósito preenchido com alimentos crus adjacente aos mesmos.\n\nConstrói um depósito adjacente ao dispensador.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Construção requer energia</BuildingNeedsPower>
-  <BuildingsNeedPower>Construções requerem energia</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>Estas construções que precisam de energia, estão totalmente desconectadas de todas as fontes de energia possíveis:\n\n{0}\nConecta-as todas a uma fonte de energia ou bateria.</BuildingsNeedPowerDesc>
-  <AndMore>e mais</AndMore>
+  <NeedMealSource>Fonte de refeições em falta</NeedMealSource>
+  <NeedMealSourceDesc>Não tens nenhuma forma de preparar uma refeição adequada a partir da comida crua.\n\nConstrói um fogão, uma fogueira ou um dispensador de pasta nutritiva.\n\n(Não pode estar numa cela de prisão, caso contrário os colonos não poderão usá-lo.)</NeedMealSourceDesc>
 
-  <NeedMealSource>Requer fonte de alimentação</NeedMealSource>
-  <NeedMealSourceDesc>Não tens nenhuma forma de preparar uma refeição adequada aparir da comida crua.\n\nConstrói um fogão, uma fogueira ou um dispensador de pasta nutritiva.\n\n(Não pode estar numa cela de prisão, caso contrário, os colonos não poderão usá-lo.)</NeedMealSourceDesc>
+  <NeedJoySource>Fonte de recreação em falta</NeedJoySource>
+  <NeedJoySourceDesc>Os teus colonos precisam de se divertir, mas ainda não construíste nada que lhes permitisse distraírem-se das suas tarefas diárias.\n\nAjuda-os ao construir um pino para o jogo da malha, uma mesa de xadrez, ou qualquer outra fonte de diversão.</NeedJoySourceDesc>
 
-  <NeedHomeArea>Requer área residencial</NeedHomeArea>
-  <NeedHomeAreaDesc>Precisas de definir uma ÁREA RESIDENCIAL onde os teus colonos irão limpar, apagar fogos, e reparar coisas.\n\nDefine uma área residencial usando a secção ZONAS no menu ARQUITECTO.</NeedHomeAreaDesc>
+  <NeedBatteries>Baterias em falta</NeedBatteries>
+  <NeedBatteriesDesc>Tens um ou mais geradores solares ou eólicos, mas nenhuma bateria. Isso significa que vais ficar sem energia elétrica cada vez que o sol se pôr ou o vento se acalmar.\n\nConstrói uma bateria ou duas para garantir que nunca te faltará energia elétrica.</NeedBatteriesDesc>
 
-  <NeedBatteries>Requer baterias</NeedBatteries>
-  <NeedBatteriesDesc>Só tens geradores solar e mas nenhuma bateria. Isso significa que vais ficar sem energia cada vez que o sol se pôr.\n\nConstrói uma bateria ou duas para a noite.</NeedBatteriesDesc>
+  <BrawlerHasRangedWeapon>Lutador tem arma de combate à distância</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Um dos teus colonos tem o traço de personalidade de Lutador (corpo-a-corpo), mas está em posse duma arma de combate à distância. Isso irá deixá-lo muito infeliz.</BrawlerHasRangedWeaponDesc>
 
-  <NoTradingCapacity>Sem comércio</NoTradingCapacity>
-  <NoTradingCapacityDesc>Não tens nenhuma forma de negociar com as naves em órbita.\n\nConstrói uma consola de comunicação.</NoTradingCapacityDesc>
+  <ShieldUserHasRangedWeapon>Utilizador de escudo tem arma de combate à distância</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Um dos teus colonos tem um escudo pessoal e está em posse duma arma de combate à distância. Ele não irá conseguir disparar a arma através do escudo (excepto a alvos que estejam em contacto com ele).</ShieldUserHasRangedWeaponDesc>
 
-  <BrawlerHasRangedWeapon>Arruaceiro tem arma de fogo</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Um dos teus colonos tem o traço de personalidade de Arruaceiro (lutador), mas está em posse de uma arma de fogo. Isso irá deixá-lo muito infeliz.</BrawlerHasRangedWeaponDesc>
-
-  <ShieldUserHasRangedWeapon>Utilizador de escudo tem arma de fogo</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>Um dos teus colonos tem um escudo pessoal e está em posse de uma arma de fogo. Ele não irá conseguir disparar a arma através do escudo (excepto a alvos que estejam em contacto com ele).</ShieldUserHasRangedWeaponDesc>
-
-  <NeedResearchProject>Requer projecto de pesquisa</NeedResearchProject>
-  <NeedResearchProjectDesc>Tens o equipamento para fazer pesquisas, mas não tens nenhum projecto seleccionado.\n\nAbre o menu de pesquisa e selecciona um protejo a ser pesquisado.</NeedResearchProjectDesc>
+  <NeedResearchProject>Projecto de pesquisa em falta</NeedResearchProject>
+  <NeedResearchProjectDesc>Tens o equipamento necessário para fazer pesquisas, mas não tens nenhum projecto selecionado.\n\nAbre o menu de pesquisa e seleciona um protejo.</NeedResearchProjectDesc>
   
-  <NeedDump>Requer zona de despejo</NeedDump>
-  <NeedDumpDesc>Designaste {0} para ser transportado, mas os colonos não têm para onde levá-los.\n\nDesigna uma zona de despejo para aceitar {0}.</NeedDumpDesc>
+  <ColonistsIdle>{0} colonos ociosos</ColonistsIdle>
+  <ColonistsIdleDesc>Este ou estes colonos estão sem nada que fazer:\n\n{0}\nDeverás provavelmente encontrar alguma tarefa produtiva para eles realizarem.</ColonistsIdleDesc>
 
-  <!-- Removed
-  <NeedGrave>Need grave</NeedGrave>
-  <NeedGraveDesc>There is a dead body laying on the ground and nowhere for your colonists to take it.\n\nBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
-  -->
-
-  <ColonistsIdle>{0} colonos desocupados</ColonistsIdle>
-  <ColonistsIdleDesc>Estes colonos estão vagando desocupados por aí:\n\n{0}\nTenta encontrar algo produtivo para eles fazerem.</ColonistsIdleDesc>
-
-  <!-- Removed
-  <HaltedConstructions>{0} constructions are missing materials</HaltedConstructions>
-  <HaltedConstructionsDesc>These kinds of constructions are missing materials:\n\n{0}\nYou should probably make required materials available for your colonists.</HaltedConstructionsDesc>
-  -->
-  
-  <ColonistNeedsTreatment>Colono precisa de tratamento</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Estes colonos necessitam de tratamento médico. Sem ele, podem morrer devido aos seus ferimentos, ou os seus ferimentos podem tornar-se permanentes.\n\n{0}\n Trata deles enviando-os para uma cama médica.\n\n(Primeiro, designa uma cama como cama médica seleccionando-a e clicando no comando 'Tornar em cama médica'. Depois, selecciona o colono ferido e clica com o botão direito na cama médica para que ele se torne num paciente.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatment>Colono necessita de tratamento</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Este ou estes colonos precisam de tratamento médico. Sem tratamento, poderão morrer devido às suas feridas, ou as suas feridas podem tornar-se permanentes.\n\n{0}\n Trata deles enviando-os para uma cama médica.\n\n(Primeiro, seleciona uma cama e ativa a opção para a tornares numa cama médica. Depois, seleciona o colono ou os colonos feridos e clica com o botão direito na cama médica para que estes se tornem em pacientes.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Hipotermia</AlertHypothermia>
-  <AlertHypothermiaDesc>Estes colonos estão a sofrer de hipotermia:\n\n{0}\nCertifica-te que a sua roupa é apropriada para a estação do ano e que os espaços interiores estão devidamente aquecidos.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Este ou estes colonos estão a sofrer de hipotermia:\n\n{0}\nCertifica-te que a sua roupa é apropriada para a estação do ano atual e que os espaços interiores estão devidamente aquecidos.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0} pacientes à espera de operação médicao</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>Estes pacientes estão à espera de operação médica:\n\n{0}\nCertifica-te que tens todos os instrumentos médicos e um doutor disponível.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} pacientes à espera de operação cirúrgica</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Este ou estes pacientes estão à espera de uma operação cirúrgica:\n\n{0}\nCertifica-te que tens todos os instrumentos médicos necessários e um doutor disponível.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Incêndio!</FireInHomeArea>
-  <FireInHomeAreaDesc>Há um incêndio na área residencial.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>Há um incêndio nas imediações da tua colónia.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Doença grave</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Estes colonos estão em risco de vida devido a doenças graves:\n\n{0}\nCertifica-te que eles recebem o melhor tratamento médico possível.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Estes colonos estão em risco de vida devido a doenças graves:\n\n{0}\nSe possível, considera amputação ou substituição dos membros infectados para manteres os colonos vivos.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Este ou estes colonos estão em risco de vida devido a pelo menos uma doença grave:\n\n{0}\nCertifica-te que eles recebem o melhor tratamento médico possível.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Este ou estes colonos estão em risco de vida devido a pelo menos uma doença grave:\n\n{0}\nSe possível, considera a amputação ou substituição dos membros infetados para manteres os colonos vivos.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Bilhar precisa de espaço</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>Uma das tuas mesas de bilhar está adjacente a uma obstrução que previne os colonos de a usar.\n\nA mesa de bilhar precisa de espaço livre em toda a sua volta para ser usável.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Mesa de bilhar necessita de espaço</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Uma das tuas mesas de bilhar está adjacente a uma obstrução que previne os colonos de a usar.\n\nUma mesa de bilhar precisa de espaço livre a toda a sua volta para poder ser utilizada.</BilliardsNeedsSpaceDesc>
 
-  <HunterHasShieldAndRangedWeapon>Caçador tem escudo e arma de combate</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>Um dos teus caçadores está a usar uma arma e a usar um escudo pessoal que impede disparar.\n\nNão poderá caçar a menos que o escudo seja removido.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Caçador tem escudo e arma de combate à distância</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Um dos teus caçadores está em posse duma arma de combate à distância e a usar um escudo pessoal que o impede de a disparar.\n\nNão poderá caçar a menos que o escudo seja removido.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>Roupa quente em falta</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Pelo menos {0} dos teus colonos necessitam de roupas quentes para quando o inverno chegar.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Todos os teus colonos vão necessitar de roupas quentes para quando o inverno chegar.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>A temperatura exterior vai atingir {0}.\n\nPodes coser roupas quentes na máquina de costura, ou comprá-las de comerciantes.</NeedWarmClothesDesc2>
+  
+  <ImmobileCaravan>Caravana imóvel</ImmobileCaravan>
+  <ImmobileCaravanDesc>Umas da tuas caravanas encontra-se imóvel devido a excesso de peso.\n\nPodes fazer com que ela seja capaz de se mover novamente ao abandonar alguns produtos na aba PRODUTOS.</ImmobileCaravanDesc>
   
 </LanguageData>
