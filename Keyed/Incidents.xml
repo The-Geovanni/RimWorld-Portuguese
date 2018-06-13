@@ -40,14 +40,14 @@
 
   <LetterLabelSingleVisitorArrives>Visitante</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>Um {0} dos {1} está a visitar a colónia.\n\nChama-se {2}.{3}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP parece ter alguns items para trocar.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] parece ter alguns items para trocar.</SingleVisitorArrivesTraderInfo>
   <LetterLabelGroupVisitorsArrive>Visitantes</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Um grupo dos {0} estão visitando a colónia.{1}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nEles parecem ter alguns items para trocar.</GroupVisitorsArriveTraderInfo>
   <VisitorsLeaving>Visitantes de {0} estão a ir embora.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Solitário juntou-se</LetterLabelWandererJoin>
-  <WandererJoin>Um {0} com o nome NAME chegou e juntou-se a colónia. É um {1}.</WandererJoin>
+  <WandererJoin>Um {0} com o nome [PAWN_nameDef] chegou e juntou-se a colónia. É um {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Matilha de caçadores de pessoas</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Uma matilha de {0} caçadores de pessoas chegou à área. Eles irão vaguear a região, à caça de carne humana.\n\nEles não passam por portas, portanto fica no interior e estarás a salvo. Eles não atacam torres inactivas, logo desliga as tuas torres se as quiseres salvar.\n\nEles sairão da área em alguns dias.</ManhunterPackArrived>

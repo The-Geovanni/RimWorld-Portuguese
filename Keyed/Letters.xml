@@ -66,8 +66,8 @@
   <LetterFamilyMembersTraderShipSlaves>O comerciante orbital está a vender membros da família dos teus colonos ou prisioneiros:</LetterFamilyMembersTraderShipSlaves>
   
   <FamilyLetterAppendedSuffix>(família)</FamilyLetterAppendedSuffix>
-  <FamilyLetterAppendedTextColonist>NAME é um membro familiar de um colono. HECAP é {1} de {0}.</FamilyLetterAppendedTextColonist>
-  <FamilyLetterAppendedTextPrisoner>NAME é um membro familiar de um dos teus prisioneiros. HECAP é {1} de {0}.</FamilyLetterAppendedTextPrisoner>
+  <FamilyLetterAppendedTextColonist>[PAWN_nameDef] é um membro familiar de um colono. [PAWN_pronoun] é {1} de {0}.</FamilyLetterAppendedTextColonist>
+  <FamilyLetterAppendedTextPrisoner>[PAWN_nameDef] é um membro familiar de um dos teus prisioneiros. [PAWN_pronoun] é {1} de {0}.</FamilyLetterAppendedTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Caso</LetterLabelAffair>

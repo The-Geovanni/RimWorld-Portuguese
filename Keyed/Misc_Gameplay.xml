@@ -277,7 +277,7 @@
   <!-- Cryptosleep casket -->
   <CasketContains>Contém</CasketContains>
   <CasketUnknownContents>Desconhecido</CasketUnknownContents>
-  <CasketWarning>Aviso!\n\nNAME é o teu ultimo colono de pé! Se o deixares entrar, já não poderás continuar a jogar. Tens certeza que pretendes prosseguir?</CasketWarning>
+  <CasketWarning>Aviso!\n\n[PAWN_nameDef] é o teu ultimo colono de pé! Se o deixares entrar, já não poderás continuar a jogar. Tens certeza que pretendes prosseguir?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Não é possível lançar.</ShipReportCannotLaunch>
