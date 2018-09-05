@@ -3,6 +3,7 @@
   <friendlyNameNative>Português</friendlyNameNative>
   <friendlyNameEnglish>Portuguese</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_Portuguese</languageWorkerClass>
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
