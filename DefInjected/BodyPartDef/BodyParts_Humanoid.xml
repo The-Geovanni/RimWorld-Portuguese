@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Torso.label>torso</Head.label>
+    <Torso.label>torso</Torso.label>
 
 	<LeftShoulder.label>ombro esquerdo</LeftShoulder.label>
 
