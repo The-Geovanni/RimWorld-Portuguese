@@ -38,6 +38,6 @@
     <Frostbite.deathMessage>{0} congelou até à morte.</Frostbite.deathMessage>
     
     <SurgicalCut.label>corte cirúrgico</SurgicalCut.label>
-    <SurgicalCut.deathMessage>{0} morreu durante a cirurgia.<SurgicalCut.deathMessage>
+    <SurgicalCut.deathMessage>{0} morreu durante a cirurgia.</SurgicalCut.deathMessage>
     
 </LanguageData>

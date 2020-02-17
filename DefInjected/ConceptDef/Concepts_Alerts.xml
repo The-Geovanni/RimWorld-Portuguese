@@ -40,7 +40,7 @@
     <RightClickClearLetter.label>Aprende a limpar cartas com click-direito</RightClickClearLetter.label>
     <RightClickClearLetter.helpTexts.0>Podes rapidamente dispensar cartas fazendo click-direito nelas.</RightClickClearLetter.helpTexts.0>
     
-    <BuildOrbitalTradeBeacon.label>Contrói um farol orbital de comércio<BuildOrbitalTradeBeacon.label>
+    <BuildOrbitalTradeBeacon.label>Contrói um farol orbital de comércio</BuildOrbitalTradeBeacon.label>
     <BuildOrbitalTradeBeacon.helpTexts.0>Para enviar itens ou prata para comerciantes orbitais, é necessário construires um FAROL ORBITAL DE COMÉRCIO e colocar uma zona de stock à sua volta.</BuildOrbitalTradeBeacon.helpTexts.0>
     
     <SetGrowingZonePlant.label>Aprende sobre a configuração da zona de cultivo</SetGrowingZonePlant.label>
@@ -49,7 +49,7 @@
     <PrisonerTab.label>Aprende sobre a aba de prisioneiros</PrisonerTab.label>
     <PrisonerTab.helpTexts.0>Vê a aba 'Prisioneiro' de um prisioneiro para decidires como são tratados.\n\nPrecisas de um colono com o trabalho de Guarda para tratar dos prisioneiros.</PrisonerTab.helpTexts.0>
     
-    <StoragePriority.label>Aprende a colocar prioridades de armazenamento<StoragePriority.label>
+    <StoragePriority.label>Aprende a colocar prioridades de armazenamento</StoragePriority.label>
     <StoragePriority.helpTexts.0>Podes mudar a PRIORIDADE de armazenamento. Colonos encherão as zonas de maior prioridade em primeiro.</StoragePriority.helpTexts.0>
     
     <HistoryTab.label>Aprende sobre a aba de história</HistoryTab.label>
