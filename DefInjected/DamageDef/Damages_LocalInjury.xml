@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Cut.label>corte</Cut.label>
+    <Cut.label>cortedo</Cut.label>
     <Cut.deathMessage>{0} foi cortado até à morte.</Cut.deathMessage>
     
     <Crush.label>esmagamento</Crush.label>
     <Crush.deathMessage>{0} foi esmagado até à morte.</Crush.deathMessage>
     
-    <Blunt.label>trauma</Blunt.label>
+    <Blunt.label>traumatizado</Blunt.label>
     <Blunt.deathMessage>{0} foi espancado até à morte.</Blunt.deathMessage>
     
     <Stab.label>facada</Stab.label>
