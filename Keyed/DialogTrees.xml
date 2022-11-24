@@ -8,13 +8,13 @@
   <Disconnect>Desconectar</Disconnect>
 
   <OfferGift>Oferecer presente</OfferGift>
-  <NeedSilverLaunchable>É necessárioooooooooooo {0} de prata</NeedSilverLaunchable>
+  <NeedSilverLaunchable>É necessárioooooo {0} de prata</NeedSilverLaunchable>
   <NotEnoughSilver>Sem prata suficiente.</NotEnoughSilver>
   <SilverForGoodwill>{0} de prata para {1} de afeição</SilverForGoodwill>
   <SilverGiftSent>O representante de {0} agradece-te.\n\n(Afeição aumentada em {1}).</SilverGiftSent>
 
 
-  <RequestMilitaryAid>Solicitar ajuda militar imediataaaaaaaaaaaaa ({0} de afeição)</RequestMilitaryAid>
+  <RequestMilitaryAid>Solicitar ajuda militar imediataaaaaaaaaaaaaaaaaaaa ({0} de afeição)</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} não te irá ajudar a lutar contra outras facções que não são os seus inimigos. Isso inclui algumas que estão te a ameaçar atualmente, {1}. Ainda queres pedir ajuda?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Sim, pedir ajuda na mesmaaaaaaaa.</CallConfirm>
   <CallCancel>Não, não importaaaaaaaaaaaa.</CallCancel>
