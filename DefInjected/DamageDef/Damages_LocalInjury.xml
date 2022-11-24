@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Cut.label>cortedo</Cut.label>
+    <Cut.label>cortado</Cut.label>
     <Cut.deathMessage>{0} foi cortado até à morte.</Cut.deathMessage>
     
     <Crush.label>esmagamento</Crush.label>
